@@ -20,7 +20,7 @@
         }
     ],
     "require": {
-        "php": ">=5.3.3",
-        "zendframework/zend-stdlib": "2.*"
+        "php": ">=7.4",
+        "laminas/laminas-stdlib": "^3.3"
     }
 }
